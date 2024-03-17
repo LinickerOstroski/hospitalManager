@@ -3,6 +3,13 @@ package hospitalmanager;
 import java.util.List;
 import java.util.Scanner;
 
+ /*
+ * This code is provided for educational purposes only. It may contain errors,
+ * not follow best programming practices, and may not be properly formatted.
+ * This code should not be used in a production environment without proper 
+ * review and modifications to meet appropriate quality standards.
+ */
+
 public class ClassePrincipal {
 
     public static void cadastrarInternacao() {
